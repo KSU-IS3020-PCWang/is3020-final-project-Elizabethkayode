@@ -3,9 +3,9 @@
 ## Student and Project Information
 
 - Student name: Elizabeth Kayode
-- GitHub username:
-- Project title:
-- Application purpose:
+- GitHub username: Elizabethkayode
+- Project title: Trading Threshold Monitor
+- Application purpose: an application that helps individual investors track their stock holdings and receive alerts when a holding reaches a personal profit-taking goal or a loss limit. 
 
 ## How to Run the Application
 
