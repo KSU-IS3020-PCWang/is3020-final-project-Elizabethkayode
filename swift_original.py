@@ -13,7 +13,7 @@ investments = {
 
 
 def show_welcome():
-"""Display the welcome message when the program starts."""
+ """Display the welcome message when the program starts."""
 print("=" * 50)
 print("           WELCOME TO SWIFT ALERT")
 print("=" * 50)
