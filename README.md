@@ -2,7 +2,7 @@
 
 ## Student and Project Information
 
-- Student name:
+- Student name: Elizabeth Kayode
 - GitHub username:
 - Project title:
 - Application purpose:
